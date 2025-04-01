@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  one:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-01T16:17:58.347601961+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e8b9e90ecac8766de7f05fa542062155eb7c15527f59398f4faa805d4ac8f07a
+    name: one
+    type: application
+    urls:
+    - https://ganesh-redy.github.io/helm4/one-0.1.0.tgz
+    version: 0.1.0
+  two:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-01T16:17:58.348338266+05:30"
+    description: A Helm chart for Kubernetes
+    digest: ca365473c2372ec5f4048068da6a9d12cdadad133b4d9fe5c8ea7ff622bd16e6
+    name: two
+    type: application
+    urls:
+    - https://ganesh-redy.github.io/helm4/two-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-01T16:17:58.34659051+05:30"
